@@ -31,17 +31,17 @@
   
 <summary>Languages</summary>
     
-  [Ruby](https://img.shields.io/badge/ruby-100000?style=for-the-badge&logo=ruby&logoColor=blue)
+  ![Ruby](https://img.shields.io/badge/ruby-100000?style=for-the-badge&logo=ruby&logoColor=blue)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  [Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
-  [CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
-  [HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+  ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
+  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
 
     <summary>Other</summary>
     
-  [Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
-  [Docker](https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker)
-  [Linux](https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux)
+  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+  ![Docker](https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker)
+  ![Linux](https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
