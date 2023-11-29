@@ -29,23 +29,23 @@
 
 <strong>My Skills:<strong>
   
- <details>
-    <summary>Languages</summary>
-    
-  [Ruby](https://img.shields.io/badge/ruby-100000?style=for-the-badge&logo=ruby&logoColor=blue)
-  [Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=java)
-  [Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
-  [CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
-  [HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
-  </details>
-  <details>
-    <summary>Other</summary>
-    
-  [Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
-  [Docker](https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker)
-  [Linux](https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux)
 
-  </details>
+<summary>Languages</summary>
+    
+  ![Ruby](https://img.shields.io/badge/ruby-100000?style=for-the-badge&logo=ruby&logoColor=blue)
+  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=java)
+  ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
+  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+
+
+<summary>Other</summary>
+    
+  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+  ![Docker](https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker)
+  ![Linux](https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux)
+
+
 
 # My Status
 <div>
