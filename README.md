@@ -31,10 +31,10 @@
   
 <summary>Languages</summary>
     
-  ![Ruby](https://img.shields.io/badge/ruby-100000?style=for-the-badge&logo=ruby&logoColor=blue)
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
-  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
 
     <summary>Other</summary>
